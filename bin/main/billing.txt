@@ -1,0 +1,100 @@
+CUSTOMER|Diana Yamaletdinova|123 Low str|888.26|170.00
+SERVICE|Software installation service|39.99
+PRODUCT|Microsoft Office|399.99|20.0
+PRODUCT|Windows operating System|94.99|60.0
+PRODUCT|Anti-viruses software|39.99|30.0
+PRODUCT|Voice recognition Software|139.99|45.0
+PRODUCT|Video editing software|99.99|15.0
+
+CUSTOMER|Maria Lopez|45 High str|648.30|95.00
+SERVICE|Software installation service|39.99
+PRODUCT|Microsoft Office|399.99|20.0
+SERVICE|Computer repair service|39.99
+PRODUCT|Fan|35.0|15.0
+PRODUCT|Motherboard|149.99|60.0
+
+CUSTOMER|Alex Belo|4568 Glend dr|648.30|95.00
+SERVICE|Software installation service|39.99
+PRODUCT|Microsoft Office|399.99|20.0
+SERVICE|Computer repair service|39.99
+PRODUCT|Fan|35.0|15.0
+PRODUCT|Motherboard|149.99|60.0
+
+CUSTOMER|Olga Romanova|45 Main str|639.96|90.00
+SERVICE|Software installation service|39.99
+PRODUCT|Microsoft Office|399.99|20.0
+SERVICE|Hardware upgrade service|39.99
+PRODUCT|Motherboard|149.99|60.0
+SERVICE|Computer repair service|39.99
+PRODUCT|Memory|30.0|10.0
+
+CUSTOMER|Eric Roco|158 19th street|336.63|85.00
+SERVICE|Software installation service|39.99
+PRODUCT|Video editing software|99.99|15.0
+SERVICE|Hardware upgrade service|39.99
+PRODUCT|Motherboard|149.99|60.0
+SERVICE|Computer repair service|39.99
+PRODUCT|Memory|30.0|10.0
+
+CUSTOMER|Jack Randel|45 Hill dr|861.58|235.00
+SERVICE|New service 3|39.99
+PRODUCT|Product 4|149.99|60.0
+PRODUCT|Product 5|49.99|25.0
+PRODUCT|Product 6|149.99|15.0
+PRODUCT|Product 7|149.99|60.0
+SERVICE|Computer repair service|39.99
+PRODUCT|Motherboard|149.99|60.0
+PRODUCT|Memory|30.0|10.0
+PRODUCT|Battery|25.0|5.0
+
+CUSTOMER|dina|123|609.96|90.00
+SERVICE|Hardware upgrade service|39.99
+PRODUCT|CPU|249.99|15.0
+PRODUCT|Graphics processing unit|149.99|15.0
+PRODUCT|Motherboard|149.99|60.0
+
+CUSTOMER|dd|dd|751.59|175.00
+SERVICE|New service 3|39.99
+PRODUCT|Product 3|149.99|15.0
+PRODUCT|Product 4|149.99|60.0
+PRODUCT|Product 6|149.99|15.0
+PRODUCT|Product 8|49.99|25.0
+SERVICE|Computer repair service|39.99
+PRODUCT|Screen|99.99|45.0
+PRODUCT|Fan|35.0|15.0
+
+CUSTOMER|Jackie|111|751.59|175.00
+SERVICE|New service 3|39.99
+PRODUCT|Product 3|149.99|15.0
+PRODUCT|Product 4|149.99|60.0
+PRODUCT|Product 6|149.99|15.0
+PRODUCT|Product 8|49.99|25.0
+SERVICE|Computer repair service|39.99
+PRODUCT|Screen|99.99|45.0
+PRODUCT|Fan|35.0|15.0
+
+CUSTOMER|Don|123 LOW STR|608.29|110.00
+SERVICE|Software installation service|39.99
+PRODUCT|Microsoft Office|399.99|20.0
+PRODUCT|Windows operating System|94.99|60.0
+PRODUCT|Anti-viruses software|39.99|30.0
+
+CUSTOMER|123|123|226.65|70.00
+SERVICE|Computer repair service|39.99
+PRODUCT|Motherboard|149.99|60.0
+PRODUCT|Memory|30.0|10.0
+
+CUSTOMER|????|???|1078.22|260.00
+SERVICE|Software installation service|39.99
+PRODUCT|Windows operating System|94.99|60.0
+PRODUCT|Anti-viruses software|39.99|30.0
+PRODUCT|Voice recognition Software|139.99|45.0
+SERVICE|Hardware upgrade service|39.99
+PRODUCT|RAM|30.0|10.0
+PRODUCT|CPU|249.99|15.0
+PRODUCT|Graphics processing unit|149.99|15.0
+PRODUCT|Motherboard|149.99|60.0
+PRODUCT|Power supply unit|49.99|25.0
+
+CUSTOMER|||0.00|0.00
+
